@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project implements **Structural-Based Grammatical Evolution (SBGE)** in Java for electricity load prediction using historical residential energy consumption data.
+This project implements **Structural-Based Grammatical Evolution (SBGE)**.
 
 The system evolves mathematical expressions that predict future electricity load values from previously observed readings. The model performs symbolic regression, where the algorithm searches for mathematical expressions that minimise prediction error.
 
