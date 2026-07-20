@@ -8,8 +8,6 @@ The system evolves mathematical expressions that predict future electricity load
 
 The fitness of each evolved individual is evaluated using **Mean Squared Error (MSE)**, while **Mean Absolute Error (MAE)** is also reported for interpretation of prediction accuracy.
 
-The dataset contains UK residential electricity load measurements collected between **2014 and 2020** at **15-minute intervals**.
-
 ---
 
 # Requirements
